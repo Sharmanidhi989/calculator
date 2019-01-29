@@ -13,3 +13,10 @@ puts 'please enter another number:'
 b = gets.to_i
 
 puts "Diffrence : #{a - b}"
+
+puts 'please enter a number:'
+a = gets.to_i
+puts 'please enter another number:'
+b = gets.to_i
+
+puts "product : #{a * b}"
